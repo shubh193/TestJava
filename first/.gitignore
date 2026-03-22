@@ -1,2 +1,11 @@
-/bin/
-/.classpath
+# Compiled files
+bin/
+out/
+target/
+
+# Eclipse files
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
